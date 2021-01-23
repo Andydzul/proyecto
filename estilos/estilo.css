@@ -1,0 +1,142 @@
+
+/*SEGUNDO FONDO*/
+
+/*TITULO*/
+
+h4{
+  text-align: center;
+  font-size:70pt;
+  color:#ffffff;
+  line-height: 40%;
+  font-style: italic;
+  font-family: sans-serif; 
+}
+
+h1{
+  text-align: center;
+  font-size:55pt;
+  color:white;
+  margin-bottom: 50px;
+}
+
+
+/*BARRA DE NAVEGACIÓN*/
+header{
+  width: 100%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.navegacion{
+text-align: center;
+margin: 20px;
+border-radius: 40px;
+ 
+}
+
+.navegacion ul{
+  list-style: none;
+}
+
+.menu > li{
+  position: relative;
+  display: inline-block;
+}
+
+.menu > li > a{
+  display: block;
+  padding: 25px 30px; 
+  color: white;
+  font-family: 'arial';
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu li a:hover{
+  color: #CE7D35;
+  transition: all .3s;
+}
+
+
+/*TEXTO*/
+h3{
+  font:verdana;
+  color:white;
+}
+
+/*MISIÓN*/
+p{
+  text-align: center;
+  margin-top: 5px;
+  margin-left: 5px;
+  color:white;
+  font-size:30px;
+  font-family:Verdana;
+}
+
+.caja-blanca { 
+  background-color: white;
+  width: 70%;
+  height: auto;
+  margin-top: 1%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  border-radius: 50px;
+  padding-left: 40px;
+  padding-right: 2%;
+  padding-bottom: 5px;
+  box-shadow: 4px 2px 5px #5a5a5a;
+}
+.div {
+  float: center;
+  text-align: left;
+  padding: 15px 15px;
+}
+.ss {
+  font-family: sans-serif;
+}
+
+.ss {
+  font-family: sans-serif;
+}
+
+.titulo{
+  color:black;
+  font-size: 19px; 
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+.parrafo{
+  text-align: justify;
+  margin-bottom: 20px;
+}
+  h1.line2 {
+  color: black;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 90px;
+  letter-spacing: 15px;
+  margin: 0 0;
+  text-align: center;
+  
+   }
+
+   h1.retro{
+  margin-left: 25px;
+  margin-right:25px ;
+  text-transform: uppercase;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 75px;
+  border-radius: 50px;
+  padding: 4px 4px;
+  text-align: center;
+  color: white;
+  background-color: #7D56AC;
+  letter-spacing: 15px;
+}
+
